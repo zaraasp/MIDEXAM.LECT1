@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MID EXAM LECT1</string>
+    <string-array name="majors">
+        <item>Informatics</item>
+        <item>Information Systems</item>
+    </string-array>
+</resources>
